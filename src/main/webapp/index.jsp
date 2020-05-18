@@ -1,5 +1,9 @@
+<!Doctype html>
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+	<head>
+		<title>CSD63 JSP Application</title>
+	</head>
+	<body>
+		<h1>Welcome to CSD63!</h1>
+	</body>
 </html>
